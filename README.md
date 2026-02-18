@@ -6,11 +6,11 @@ The House Price Prediction Web App is a machine learning–based application tha
 The project demonstrates an end-to-end ML workflow — from data preprocessing and model training to deployment through an interactive web interface. The predictive model was built using Python and Scikit-learn, then integrated into a simple web application using Streamlit for real-time predictions.
 This project showcases practical skills in data analysis, regression modeling, model serialization, and building user-friendly ML applications suitable for portfolio demonstration.
 ## 🚀 Features
-Predicts house prices instantly
-Interactive web interface using Streamlit
-Trained ML model saved using pickle
-Clean and simple UI
-Ready for deployment
+- Predicts house prices instantly
+- Interactive web interface using Streamlit
+- Trained ML model saved using pickle
+- Clean and simple UI
+- Ready for deployment
 ## 🧠 Machine Learning Workflow
 1. Data preprocessing and cleaning  
 2. Feature selection  
